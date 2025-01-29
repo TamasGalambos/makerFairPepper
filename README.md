@@ -3,6 +3,7 @@ Um diesen Workflow zu üben und mit git checkout -b nameBranch zu verstehen habe
 Weil wir sind einfach toll 
 
 Das ganze Projekt hier ist von Tamas Galambos aus der 5AHMNS (SJ 24/25) und Moritz Gaisberger geändert worden 
+Ich bin der Tamas und ich bin auch dabei (:
 
 ––––––––––––END MESSAGE–––––––––––––
 
